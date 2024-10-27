@@ -20,11 +20,12 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 - **Pillow**: For image processing.
 
 ## Websites Overview
-![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/2f0fdf2e-0761-48d7-ba9f-3cf76e0278b3)
+![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/b79d5637-9ca7-48a6-8973-3bbd038ac7d5)
 
-![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/8aa0f191-5ca1-4e97-a800-cb28b57a4c84)
+![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/a4955115-8e38-48b6-a0d0-48baa65d023b)
 
-![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/e003ea7e-8549-4c53-8d92-817e55743276)
+![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/0acd2e2e-7208-4a72-8bd5-91310e419a48)
+
 
 ##Getting Started
 ### Prerequisites
