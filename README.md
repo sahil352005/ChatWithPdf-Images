@@ -20,13 +20,12 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 - **Pillow**: For image processing.
 
 ## Websites Overview
-![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/6bde8147-a6fd-422b-a836-35862c461beb)
-![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/06517242-3328-412a-bc5a-bc48fd0f82e8)
-![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/f3eb93ac-cdfd-43a8-a10a-98498e2e6752)
+
+![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/13fe2e1f-0b1e-414e-8f68-1edcc43d7a51)
+![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/af241d66-447c-4c0b-b335-cd3e8661197c)
+![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/d52b9126-0929-4d88-b69d-17fc31d26d23)
 
 
-
-##Getting Started
 ### Prerequisites
 1. Python 3.7+
 2. [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installed (ensure the path to `tesseract.exe` is correct).
