@@ -1,4 +1,3 @@
-Here’s the updated `README.md` with a section for screenshots:
 
 ```markdown
 # Chat with PDF and Images 📄🤖
@@ -30,7 +29,7 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ChatWithPdf-Images.git
+   git clone https://github.com/sahil352005/ChatWithPdf-Images.git
    cd ChatWithPdf-Images
    ```
 
@@ -117,4 +116,4 @@ This setup gives users a visual guide along with installation and usage instruct
 This project is open-source and available under the MIT License.
 ```
 
-Replace `yourusername` with your GitHub username. This README will provide clear guidance for setup and usage. Let me know if you'd like any other customizations!
+
