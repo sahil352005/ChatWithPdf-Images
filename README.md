@@ -1,4 +1,4 @@
-
+Here’s the updated `README.md` with a section for screenshots:
 
 ```markdown
 # Chat with PDF and Images 📄🤖
@@ -19,12 +19,7 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 - **Google Generative AI (Gemini API)**: For generating answers based on extracted text.
 - **Pillow**: For image processing.
 
-## Screenshot
-
-![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/13fe2e1f-0b1e-414e-8f68-1edcc43d7a51)
-![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/af241d66-447c-4c0b-b335-cd3e8661197c)
-![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/d52b9126-0929-4d88-b69d-17fc31d26d23)
-
+## Getting Started
 
 ### Prerequisites
 1. Python 3.7+
@@ -35,7 +30,7 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/sahil352005/ChatWithPdf-Images.git
+   git clone https://github.com/yourusername/ChatWithPdf-Images.git
    cd ChatWithPdf-Images
    ```
 
@@ -85,6 +80,15 @@ ChatWithPdf-Images/
 └── .env                  # Contains the Gemini API key
 ```
 
+## Screenshots
+
+Here are some screenshots to give you a glimpse of the app's interface and functionality:
+![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/44b98534-7b22-4541-a268-56eb5ecfe9e0)
+![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/c2431c96-12e4-4d22-b49d-c98e34ddec33)
+![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/b75b8c8a-57da-49d2-a384-d23a727f8320)
+
+
+
 ## Dependencies
 
 Refer to `requirements.txt` for all dependencies, including:
@@ -98,6 +102,16 @@ Refer to `requirements.txt` for all dependencies, including:
 ## Acknowledgements
 - Thanks to [Google Generative AI (Gemini API)](https://cloud.google.com/generative-ai) for the content generation capability.
 - Icons and animations inspired by CSS libraries.
+
+## License
+This project is open-source and available under the MIT License.
+```
+
+### Instructions for Adding Screenshots:
+1. Place your screenshots (e.g., `home_screen.png`, `pdf_upload.png`, `chat_interface.png`) in an `assets` folder.
+2. Commit the changes to GitHub to ensure the images appear in the `README.md`.
+
+This setup gives users a visual guide along with installation and usage instructions. Let me know if you need further customization!
 
 ## License
 This project is open-source and available under the MIT License.
