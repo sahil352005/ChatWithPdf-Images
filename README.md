@@ -1,4 +1,4 @@
-Here’s the updated `README.md` with your repository name:
+
 
 ```markdown
 # Chat with PDF and Images 📄🤖
@@ -20,11 +20,10 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 - **Pillow**: For image processing.
 
 ## Websites Overview
-![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/b79d5637-9ca7-48a6-8973-3bbd038ac7d5)
+![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/6bde8147-a6fd-422b-a836-35862c461beb)
+![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/06517242-3328-412a-bc5a-bc48fd0f82e8)
+![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/f3eb93ac-cdfd-43a8-a10a-98498e2e6752)
 
-![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/a4955115-8e38-48b6-a0d0-48baa65d023b)
-
-![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/0acd2e2e-7208-4a72-8bd5-91310e419a48)
 
 
 ##Getting Started
