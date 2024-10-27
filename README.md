@@ -24,8 +24,6 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 ![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/13fe2e1f-0b1e-414e-8f68-1edcc43d7a51)
 ![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/af241d66-447c-4c0b-b335-cd3e8661197c)
 ![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/d52b9126-0929-4d88-b69d-17fc31d26d23)
-![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/7ce6c46c-f146-4f68-a483-39a030b7555e)
-
 
 
 ### Prerequisites
