@@ -19,8 +19,14 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 - **Google Generative AI (Gemini API)**: For generating answers based on extracted text.
 - **Pillow**: For image processing.
 
-## Getting Started
+## Websites Overview
+![Screenshot 2024-10-24 212659](https://github.com/user-attachments/assets/2f0fdf2e-0761-48d7-ba9f-3cf76e0278b3)
 
+![Screenshot 2024-10-24 212907](https://github.com/user-attachments/assets/8aa0f191-5ca1-4e97-a800-cb28b57a4c84)
+
+![Screenshot 2024-10-24 213032](https://github.com/user-attachments/assets/e003ea7e-8549-4c53-8d92-817e55743276)
+
+##Getting Started
 ### Prerequisites
 1. Python 3.7+
 2. [Tesseract OCR](https://github.com/tesseract-ocr/tesseract) installed (ensure the path to `tesseract.exe` is correct).
@@ -30,7 +36,7 @@ A Streamlit-based app that enables users to upload PDF documents or images, extr
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/ChatWithPdf-Images.git
+   git clone https://github.com/sahil352005/ChatWithPdf-Images.git
    cd ChatWithPdf-Images
    ```
 
