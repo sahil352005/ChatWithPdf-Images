@@ -102,18 +102,6 @@ Refer to `requirements.txt` for all dependencies, including:
 - Thanks to [Google Generative AI (Gemini API)](https://cloud.google.com/generative-ai) for the content generation capability.
 - Icons and animations inspired by CSS libraries.
 
-## License
-This project is open-source and available under the MIT License.
-```
 
-### Instructions for Adding Screenshots:
-1. Place your screenshots (e.g., `home_screen.png`, `pdf_upload.png`, `chat_interface.png`) in an `assets` folder.
-2. Commit the changes to GitHub to ensure the images appear in the `README.md`.
-
-This setup gives users a visual guide along with installation and usage instructions. Let me know if you need further customization!
-
-## License
-This project is open-source and available under the MIT License.
-```
 
 
